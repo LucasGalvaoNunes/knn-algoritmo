@@ -1,0 +1,6 @@
+C:\Users\Lucas Galvao Nunes\documents\visual studio 2017\Projects\k-NN_Algoritimo\k-NN_Algoritimo\bin\Debug\k-NN_Algoritimo.exe.config
+C:\Users\Lucas Galvao Nunes\documents\visual studio 2017\Projects\k-NN_Algoritimo\k-NN_Algoritimo\bin\Debug\k-NN_Algoritimo.exe
+C:\Users\Lucas Galvao Nunes\documents\visual studio 2017\Projects\k-NN_Algoritimo\k-NN_Algoritimo\bin\Debug\k-NN_Algoritimo.pdb
+C:\Users\Lucas Galvao Nunes\documents\visual studio 2017\Projects\k-NN_Algoritimo\k-NN_Algoritimo\obj\Debug\k-NN_Algoritimo.exe
+C:\Users\Lucas Galvao Nunes\documents\visual studio 2017\Projects\k-NN_Algoritimo\k-NN_Algoritimo\obj\Debug\k-NN_Algoritimo.pdb
+C:\Users\Lucas Galvao Nunes\Documents\Visual Studio 2017\Projects\k-NN_Algoritimo\k-NN_Algoritimo\obj\Debug\k-NN_Algoritimo.csprojResolveAssemblyReference.cache
